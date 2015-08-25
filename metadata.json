@@ -1,0 +1,14 @@
+{
+  "name": "puppet-productivity",
+  "version": "0.1.0",
+  "author": "Guillaume",
+  "summary": "Enlarge your productivity with puppet!",
+  "license": "FreeBSD",
+  "source": "https://github.com/lomignet/puppet-productivity",
+  "project_page": "https://github.com/lomignet/puppet-productivity",
+  "issues_url": "https://github.com/lomignet/puppet-productivity/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
